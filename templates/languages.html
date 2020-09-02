@@ -1,0 +1,20 @@
+{% extends 'base.html' %}
+{% block content %}
+  {% include 'navbar.html' %}
+    <div class="container">
+        <h3 class="center-align">Technical Skills</h3>
+        <div class="row">
+        
+                <ul class="collection">
+                 {% for skills in languages %}
+                    <li class="collection-item">{{ skills }}</li>
+                 {% endfor %}
+                </ul>
+                
+
+            </div>
+        </div>
+    </div>
+
+
+{% endblock %}

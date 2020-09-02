@@ -1,0 +1,17 @@
+{
+    "NAME": "Dipika Tele",
+    "ABOUT_ME": "Python mentor and developer at VJTI, Mumbai",
+    "TECHNICAL_SKILLS": [" Python","Django framework","Advanced Excel", "Tableau"],
+    "PROJECTS": [
+                    ["high_quality",
+                    "YouTube",
+                    "Best  online video-sharing platform "],
+                    
+                    [ "place",
+                    "GPS","The Global Positioning System, originally NAVSTAR GPS"],
+                    [
+                        "email","Gmail"," Users can access Gmail on the web and using third-party programs that synchronize email content through POP or IMAP protocols"
+                    ]
+                ]
+
+            }
